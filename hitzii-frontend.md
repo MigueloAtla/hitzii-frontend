@@ -85,3 +85,12 @@ Demo -> [Storybook (react-beautiful-dnd.netlify.app)](https://react-beautiful-dn
 ## React Testing Library 
 
 [React Testing Library | Testing Library (testing-library.com)](https://testing-library.com/docs/react-testing-library/intro/)
+
+
+# REACT PATTERNS
+
+Good practices for writting react applications
+
+## STATE - COMPONENT COMPOSITION
+
+[Application State Management with React (kentcdodds.com)](https://kentcdodds.com/blog/application-state-management-with-react)
